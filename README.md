@@ -1,2 +1,2 @@
 # Testing-tutorials
-I am sharing tutorials about software tesing.
+I am sharing tutorials about software testing.
